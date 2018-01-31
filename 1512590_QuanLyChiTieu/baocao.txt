@@ -1,0 +1,22 @@
+﻿TRẦN TRUNG TRẠNG - 1512590
+ĐỒ ÁN GIỮA KỲ - QUẢN LÝ CHI TIÊU
+
+Link youtube: https://www.youtube.com/watch?v=vktCFR7t2Y4&feature=youtu.be
+Link bitbucket: https://bitbucket.org/trantrungtrang/windev/src/3bf8993061464456fe1abf7cd56e84d92cd6153a/DoAnGiuaKy/?at=master
+------------------------------
+Thêm vào danh sách một mục chi, gồm 3 thành phần:
+ - Loại chi tiêu, nội dung chi, số tiền.
+
+Để đơn giản hóa, giả sử Loại chi tiêu chỉ gồm các loại sau đây: 
++ Ăn uống (Sáng, trưa, chiều, xế, tối, khuya, trà sữa…)
++ Di chuyển (bus, đổ xăng, taxi, bơm xe, tàu…), 
++ Nhà cửa (tiền thuê nhà, nước, điện, nước lau nhà…), 
++ Xe cộ (đổ xăng, vá xe, bảo dưỡng, gởi xe…), 
++ Nhu yếu phẩm (xà bông, sữa tắm, dao cạo râu…), 
++ Dịch vụ (intenet, thẻ cào điện thoại…).
+
+
+Xem lại danh sách các mục chi của mình, lưu và nạp vào tập tin text
+	Khi chương trình chạy lên tự động nạp danh sách chi tiêu từ tập tin text lên và hiển thị 
+	Khi chương trình thoát thì tự động lưu danh sách mới vào tập tin text.
+	Tập tin lưu trữ các khoản chi tiêu hỗ trợ lưu và nạp Tiếng Việt

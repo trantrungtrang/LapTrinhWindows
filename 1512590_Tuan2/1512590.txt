@@ -1,0 +1,14 @@
+﻿Tên: Trần Trung Trạng
+MSSV: 1512590
+email: trantrungtrang.qng@gmail.com
+
+- Đã tạo IDC_BUTTON2 để tạo button SGDtoVND và IDC_BUTTON3 để tạo button JPYtoVND
+- Từ số tiền người dùng nhập, đã đổi thành mệnh giá VND
+- So sánh hai số tiền lúc đổi thành VND và tư vấn người dùng mua loại iPad rẻ hơn
+- Đổi icon mặc định thành icon mới
+- Trong lớp edit, thêm ES_NUMBER để chỉ cho người dùng nhập số.
+- đổi màu nền
+- tạo messagebox hiển thị thông báo cho người dùng
+
+
+Tham khảo: source code TongHaiSo của thầy.

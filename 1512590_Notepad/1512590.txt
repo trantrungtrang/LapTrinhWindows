@@ -1,0 +1,13 @@
+﻿Tên: Trần Trung Trạng
+MSSV: 1512590
+
+1. Tạo ra giao diện có một edit control để nhập liệu.
+
+//2. Lưu lại dưới dạng file text. Có thể code cứng tên tập tin thay vì sử dụng SaveFileDialog.
+
+3. Mở một tập tin, đọc nội dung và hiển thị để chỉnh sửa tiếp. Có thể code cứng tên tập tin thay vì sử dụng OpenFileDialog.
+
+4. Hỗ trợ 3 thao tác Cut - Copy - Paste.
+
+
+Lập trình trên visual studio 2017, hệ điều hành windows 10
